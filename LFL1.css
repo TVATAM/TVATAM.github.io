@@ -1,0 +1,262 @@
+#image {
+    width:150px;
+    height:150px;
+    border-radius:50%;
+    overflow:hidden;
+}
+
+body {
+    background: url(lhuuifwqqwm.jpg)
+}
+
+.m {
+    background-color: white; overflow: hidden; no-repeat;
+    height: 100%;
+	width: 916px; margin: 0 auto; padding: 48px 22px 0 50px;
+}
+
+.link {
+color: #5a5a5a;
+text-decoration: none;
+background-color: none;
+}
+
+table {
+color: #5a5a5a;
+}
+
+#nav, #nav ul {
+padding: 9px 0 0 0;
+margin: 0;
+list-style: none;
+}
+
+#nav li {
+float: left;
+width: 120px;
+}
+
+#nav ul {
+position: absolute;
+width: 120px;
+left: -1000px;
+}
+
+#nav li:hover ul, #nav li.ie_does_hover ul {
+left: auto;
+background-position: 0 0;
+}
+
+#nav a {
+display: block;
+margin: 2px 5px 3px 5px;
+text-decoration: none;
+font-family: Cambria;
+font-size: 1em;
+}
+
+ul a{
+font-weight: bold;
+color: #5a5a5a;
+cursor: default;
+font-size: 12px;
+}
+
+ul ul a:link, ul ul a:visited{
+font-weight: normal;
+color: #5a5a5a;
+cursor: pointer;
+}
+
+ul ul a:hover, ul ul a:active{
+font-weight: normal;
+color: #00FF00;
+cursor: pointer;
+}
+
+ul li{
+background-color: white;
+border-left: 3px solid #FFF;
+}
+
+ul ul li{
+background-color: white;
+border-top: 3px solid #FFF;
+border-left: 0;
+}
+
+#col-md-4 tr {
+    spacing-top: 0px; 
+    spacing-bottom: 0px; 
+    vertical-align: middle; 
+    background: #FFF;   
+}
+
+
+* html ul li, * html ul ul li{
+border-bottom: 3px solid #FFF;
+}
+
+* html ul ul li{
+border-top: 0;
+}
+
+p {
+    color: grey;
+    font-family: Georgia;
+    font-size: 18px;
+}
+
+.nav a {
+  color: #5a5a5a;
+  font-size: 12px;
+  font-weight: bold;
+  padding-top: 14px;
+  padding-bottom: 14px;
+  padding-right: 10px;
+  padding-left: 10px;
+  text-transform: uppercase;
+}
+
+.pull-right {
+    float:right;
+    font-family: Georgia;
+    }
+    
+.pull-left {
+    float:left;
+
+    }
+    
+.jumbotron h1 {
+  color: #fff;
+  font-size: 48px;
+  font-weight: bold;
+  font-family: 'Shift', sans-serif;
+} 
+
+.jumbotron p {
+  color: #fff;
+  font-size: 20px;
+  font-family: Georgia;
+} 
+
+.learn-more {
+ background-color: #f7f7f7;
+}
+
+.learn-more h3 {
+  font-family: 'Shift', sans-serif;
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.learn-more a {
+  color: #00b0ff;
+}
+
+.nav li {
+  display: inline;
+} 
+
+.jumbotron .container {
+  position: relative;
+  top: 100px;
+} 
+
+h1 {
+    font-family: Vivaldi;
+    text-align: center;
+    color: black;
+}
+
+.circular {
+	width: 160px;
+	height: 160px;
+	border-radius: 100%;
+	-webkit-border-radius: 150px;
+	-moz-border-radius: 150px;
+}
+
+.LFLmv {
+    position: center;
+}
+
+#one {
+    background: url(http://uploadenfoto.nl/pictures/3f97fe2cf6da57979792879a8bf43995.jpg) no-repeat;
+/* http://i63.tinypic.com/160q247.jpg */
+}
+
+#two {
+    background: url(http://uploadenfoto.nl/pictures/00898483602ad4b21ec83ac64948e685.jpg) no-repeat;
+    /* http://i64.tinypic.com/e188b7.jpg */
+}
+
+#three {
+    background: url(http://uploadenfoto.nl/pictures/8648b41e87fe64842670697a3a6acd05.jpg) no-repeat;
+    /* http://i65.tinypic.com/wwadd5.jpg */
+}
+
+#four {
+    background: url(http://uploadenfoto.nl/pictures/8164a9bd576741ac08a13eb4b6d932f4.jpg) no-repeat;
+    /* http://i65.tinypic.com/24xmalf.jpg */
+}
+ 
+ #five {
+ background: url(http://uploadenfoto.nl/pictures/0058144b71e6cc3100811a0680cb1e3b.jpg) no-repeat;
+ /* http://i66.tinypic.com/nlv8xu.jpg */
+}
+
+#six {
+    background: url(http://uploadenfoto.nl/pictures/3f59ae7855c77a6880137e51d3fdb433.jpg) no-repeat;
+    /* http://i63.tinypic.com/xksiaf.jpg */
+}
+      
+#seven {
+ background: url(http://uploadenfoto.nl/pictures/26fd8ba1af1fdee489275c517695703c.jpg) no-repeat;
+ /*http://nl.tinypic.com?ref=2925vty.jpg */
+}
+
+ #eight {
+ background: url(http://uploadenfoto.nl/pictures/88196d7a3fafa098f9aff5e7a596ccae.jpg) no-repeat;
+ /* http://nl.tinypic.com?ref=14w6i3c.jpg */
+}
+
+ #nine {
+ background: url(http://uploadenfoto.nl/pictures/b8c0e3a2a89e7abc22df9c961591928d.jpg) no-repeat;
+ /* http://nl.tinypic.com?ref=14w6i3c.jpg */
+}
+
+#ten {
+    background: url(http://uploadenfoto.nl/pictures/b474764c291d43ee008024372af72348.jpg) no-repeat;
+}
+
+a:link {
+    text-decoration: none;
+    color: #5a5a5a;
+}
+
+a:hover a:active {
+    color: #00FF00;
+}
+
+a:hover {
+color: #00FF00;
+}
+
+a:visited {
+    color: black;
+}
+
+.link {
+text-decoration: none;
+color: #5a5a5a;
+}
+tr {
+    font-family: Georgia;
+}
+
+.header {
+    color: white;
+    padding-bottom: 5px;
+}

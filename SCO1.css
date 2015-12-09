@@ -1,0 +1,254 @@
+.link {
+color: black;
+text-decoration: none;
+background-color: none;
+}
+
+body {
+    background: url(lhuuifwqqwm.jpg)
+}
+
+.m {
+    background-color: white; overflow: hidden; no-repeat;
+    height: 100%;
+	width: 916px; margin: 0 auto; padding: 48px 22px 0 50px;
+}
+
+#nav, #nav ul {
+padding: 9px 0 0 0;
+margin: 0;
+list-style: none;
+}
+
+#nav li {
+float: left;
+width: 120px;
+}
+
+#nav ul {
+position: absolute;
+width: 120px;
+left: -1000px;
+}
+
+#nav li:hover ul, #nav li.ie_does_hover ul {
+left: auto;
+background-position: 0 0;
+}
+
+#nav a {
+display: block;
+margin: 2px 5px 3px 5px;
+text-decoration: none;
+font-family: Cambria;
+font-size: 1em;
+}
+
+ul a{
+font-weight: bold;
+color: #5a5a5a;
+cursor: default;
+font-size: 12px;
+}
+
+ul ul a:link, ul ul a:visited{
+font-weight: normal;
+color: black;
+cursor: pointer;
+}
+
+ul ul a:hover, ul ul a:active{
+font-weight: normal;
+color: #00FF00;
+cursor: pointer;
+}
+
+ul li{
+background-color: white;
+border-left: 3px solid #FFF;
+}
+
+ul ul li{
+background-color: white;
+border-top: 3px solid #FFF;
+border-left: 0;
+}
+
+#col-md-4 tr {
+    spacing-top: 0px; 
+    spacing-bottom: 0px; 
+    vertical-align: middle; 
+    background: #FFF;   
+}
+
+/* IE only hack \*/
+* html ul li, * html ul ul li{
+border-bottom: 3px solid #FFF;
+}
+
+* html ul ul li{
+border-top: 0;
+}
+/* Einde IE only hack */
+
+
+.nav a {
+  color: #5a5a5a;
+  font-size: 12px;
+  font-weight: bold;
+  padding-top: 14px;
+  padding-bottom: 14px;
+  padding-right: 10px;
+  padding-left: 10px;
+  text-transform: uppercase;
+}
+
+.nav li {
+  display: inline;
+} 
+
+#container {
+    position:relative;
+    width:770px;
+    height:396px;
+    margin:20px auto 0 auto;
+    border:1px solid #aaa;
+    }
+    
+    #container ul {
+    padding:0;
+    margin:0;
+    list-style-type:none;
+    }
+    
+    #container a.gallery span {
+    position:absolute;
+    width:1px;
+    height:1px;
+    top:5px;
+    left:5px;
+    overflow:hidden;
+    background:#fff;
+    }
+    
+    #container a.gallery, #container a.gallery:visited {
+    display:block;
+    color:#000;
+    text-decoration:none;
+    border:1px solid #000;
+    margin:1px 2px 1px 2px;
+    text-align:right;
+    cursor:default;
+    }
+#container a.slidea {
+    background:url(Image/SCO/image423734.jpg);
+    height:93px;
+    width:55px;
+    }
+#container a.slideb {
+    background:url(Image/SCO/image423740.jpg);
+    height:93px;
+    width:55px;
+    }
+#container a.slidec {
+    background:url(Image/SCO/image423742.jpg);
+    height: 93px;
+    width:55px;
+    }
+#container a.slided {
+    background:url(Image/SCO/image423604.jpg);
+    height:67px;
+    width:88px;
+    }
+* html #container a.slided {
+    width:91px;
+    w\idth:88px;
+    }
+#container a.slidee {
+    background:url(Image/SCO/image423606.jpg);
+    height:67px;
+    width:88px;
+    }
+#container a.slidef {
+    background:url(Image/SCO/image423744.jpg);
+    height:67px;
+    width:88px;
+    }
+    /*http://phototravels.net/paris/N0025/paris-shakespeare-bookstore-66.3.jpg*/
+* html #container a.slidef {
+    width:91px;
+    w\idth:93px;
+    }
+#container a.slideg {
+    background:url(Image/SCO/image423725.jpg);
+    height:67px;
+    width:88px;
+    }
+#container a.slideh {
+    background:url(Image/SCO/image423732.jpg);
+    height:67px;
+    width:88px;
+    }
+#container a.slidei {
+    background:url(Image/SCO/image423736.jpg);
+    height:67px;
+    width:88px;
+    }
+
+#container a.slidek {
+    background:url(Image/SCO/image423726.jpg);
+    height:67px;
+    width:88px;
+    }
+* html #container a.slidek {
+    width:91px;
+    w\idth:93px;
+    }
+#container a.slidel {
+    background:url(Image/SCO/image423735.jpg);
+    height:67px;
+    width:88px;
+    }
+    
+    #container ul {
+    width:198px;
+    height:386px;
+    }
+    
+#container li {
+    float: right;
+    }
+    
+    #container ul {
+    margin:5px;
+    float: right ;
+    }
+    
+    #container a.gallery:hover {
+    border:1px solid #fff;
+    }
+    
+    #container a.gallery:hover span {
+    position:absolute;
+    width:372px;
+    height:372px;
+    top:10px;
+    left:75px;
+    color:#000;
+    background:#fff;
+    }
+    
+    #container a.gallery:hover img {
+    border:1px solid #fff;
+    float:right;
+    margin-right:5px;
+    }
+    
+    #container a.slideb:hover img, #container a.slidei:hover img {
+    float:right;
+    }
+    
+    #container {
+    background:#fff url() 75px 10px no-repeat;
+    }
+

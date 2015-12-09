@@ -1,0 +1,156 @@
+body {
+    background: url(lhuuifwqqwm.jpg)
+}
+
+.m {
+    background-color: white; overflow: hidden; no-repeat;
+    height: 100%;
+	width: 916px; margin: 0 auto; padding: 48px 22px 0 50px;
+}
+
+h1 {
+text-align: center;
+}
+
+.col-md-4 {
+font-family: Georgia;
+font-size: 18px;
+}
+
+#nav, #nav ul {
+padding: 3px 0 0 0;
+margin: 10;
+list-style: none;
+}
+
+#nav li {
+float: left;
+width: 120px;
+}
+
+#nav ul {
+position: absolute;
+width: 120px;
+left: -1000px;
+}
+
+#nav li:hover ul, #nav li.ie_does_hover ul {
+left: auto;
+background-position: 0 0;
+}
+
+#nav a {
+display: block;
+margin: 10px 5px 3px 5px;
+text-decoration: none;
+font-family: Cambria;
+font-size: 1em;
+}
+
+ul a{
+font-weight: bold;
+color: #5a5a5a;
+cursor: default;
+font-size: 12px;
+margin: 10px
+}
+
+ul ul a:link, ul ul a:visited{
+font-weight: normal;
+color: #5a5a5a;
+/* color: black */
+cursor: pointer;
+}
+
+ul ul a:hover, ul ul a:active{
+font-weight: normal;
+color: #00FF00;
+cursor: pointer;
+}
+
+ul li{
+background-color: white;
+border-left: 3px solid #FFF;
+}
+
+ul ul li{
+background-color: white;
+/* color #666 */
+border-top: 3px solid #FFF;
+border-left: 0;
+}
+
+* html ul li, * html ul ul li{
+border-bottom: 3px solid #FFF;
+}
+
+* html ul ul li{
+border-top: 0;
+}
+
+.jumbotron {
+  height: 500px;
+  background: url("https://c1.staticflickr.com/9/8169/7982852568_05f73a2706_b.jpg") no-repeat;  
+  position:fixed;
+  margin:auto;
+width: 100%;
+}
+
+.jumbotron h1 {
+  color: #fff;
+  font-size: 48px;
+  font-weight: bold;
+  font-family: 'Shift', sans-serif;
+} 
+
+.jumbotron p {
+  color: #fff;
+  font-size: 20px;
+  font-family: Georgia;
+} 
+
+.learn-more {
+ background-color: #f7f7f7;
+}
+
+.learn-more h3 {
+  font-family: 'Shift', sans-serif;
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.learn-more a {
+  color: #00b0ff;
+}
+
+.nav li {
+  display: inline;
+} 
+
+a:link {
+text-decoration: none;
+color: grey;
+}
+
+}
+a:visited {
+color: grey;
+}
+
+a:hover {
+color:  #00FF00;
+}
+
+#balkjes {
+    font-family: Georgia;
+}
+
+.col-md-4 h3{
+    font-size: 20px;
+}
+
+.link {
+color: black;
+text-decoration: none;
+background-color: none;
+}
