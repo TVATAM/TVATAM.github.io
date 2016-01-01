@@ -65,7 +65,6 @@ border-left: 0;
     background: #FFF;   
 }
 
-/* IE only hack \*/
 * html ul li, * html ul ul li{
 border-bottom: 3px solid #FFF;
 }
@@ -73,7 +72,6 @@ border-bottom: 3px solid #FFF;
 * html ul ul li{
 border-top: 0;
 }
-/* Einde IE only hack */
 
 p {
     color: grey;
